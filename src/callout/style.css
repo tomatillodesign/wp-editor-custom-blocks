@@ -1,0 +1,28 @@
+.clb-callout-area {
+     padding: 26px;
+     margin-bottom: 12px;
+}
+
+.clb-callout-area h3 {
+     margin-top: 0;
+}
+
+.clb-callout-area p:last-of-type {
+     margin-bottom: 0;
+}
+
+.clb-callout-area.right {
+     width: 40%;
+     float: right;
+     margin-left: 12px;
+}
+
+.clb-callout-area.left {
+     width: 40%;
+     float: left;
+     margin-right: 12px;
+}
+
+.clb-callout-area.full {
+     margin-bottom: 26px;
+}

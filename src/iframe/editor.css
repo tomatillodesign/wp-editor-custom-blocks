@@ -1,0 +1,13 @@
+.wp-block-custom-blocks-iframe {
+
+     background: #eee;
+     border: 2px #ddd solid;
+     padding: 1rem;
+     padding-bottom: 0;
+
+}
+
+.clb-iframe-placeholder-area {
+     height: 118px;
+     background: #ddd;
+}

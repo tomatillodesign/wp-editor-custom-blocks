@@ -1,0 +1,10 @@
+.static-board-member {
+     text-align: center;
+     padding: 20px;
+     background: #eee;
+     border-radius: 8px;
+}
+
+.wp-block-clb-custom-blocks-board-member .static-board-member {
+     border: none;
+}

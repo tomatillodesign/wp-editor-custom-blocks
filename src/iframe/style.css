@@ -1,0 +1,10 @@
+.clb-custom-iframe p {
+     margin-bottom: 0;
+}
+
+.clb-custom-iframe .iframe-source {
+     text-transform: uppercase;
+     font-size: 15px;
+     font-color: #777;
+     margin-bottom: 28px;
+}
